@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Paulo Adson 😁
+## Bem-vindo(a) Dev, me chamo Paulo Adson e estou sempre me aprofundano nas áreas do Front-end 😁
 
  <div>
    <a href="https://github.com/PauloAdson">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para saber um pouco mais sobre mim, acesse as redes abaixo!
  
 <div> 
   <a target="_blank" href="https://instagram.com/oluap_dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
