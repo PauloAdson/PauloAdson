@@ -1,4 +1,5 @@
-## Bem-vindo(a) Dev, me chamo Paulo Adson e estou sempre me aprofundano nas áreas do Front-end 😁
+## Bem-vindo(a) Dev 👨‍💻
+###me chamo Paulo Adson e estou sempre me aprofundano no Front-end
 
  <div>
    <a href="https://github.com/PauloAdson">
