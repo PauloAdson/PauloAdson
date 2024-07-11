@@ -1,5 +1,4 @@
-## Bem-vindo(a) Dev 👨‍💻
-### Desenvolvedor Front-end
+## Desenvolvedor Front-end
 ### Meu portfolio : <a href="https://portfolio-pauloadson.vercel.app/">portfolio-pauloadson.vercel.app/</a>
 
  <div>
