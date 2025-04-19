@@ -5,8 +5,9 @@
   <a href="https://github.com/PauloAdson">
    <img height="180" card_width=320 src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=false&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=true"/>
 </div>
+   
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=normal&langs_count=6&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true"/>
+  <img height="180" card_width=520 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=normal&langs_count=6&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true"/>
 </div>
     
 <div style="display: inline_block"><br>
