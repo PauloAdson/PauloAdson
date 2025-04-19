@@ -5,7 +5,7 @@
    <a href="https://github.com/PauloAdson">
 <!--    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=true&&theme=transparent&include_all_commits=true&count_private=true"/> -->
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=true&theme=synthwave&bg_color=00000000&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=compact&langs_count=6&theme=synthwave"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=compact&langs_count=6&theme=synthwave&bg_color=00000000"/>
 </div>
     
 <div style="display: inline_block"><br>
