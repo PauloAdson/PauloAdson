@@ -3,7 +3,7 @@
 
  <div>
    <a href="https://github.com/PauloAdson">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=false&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=false&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true&include_all_commits=false&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=compact&langs_count=6&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true"/>
 </div>
     
