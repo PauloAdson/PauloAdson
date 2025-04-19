@@ -3,8 +3,8 @@
 
  <div>
    <a href="https://github.com/PauloAdson">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=true&theme=synthwave&title_color=2687a5&bg_color=00000000&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=compact&langs_count=6&theme=synthwave&bg_color=00000000&title_color=2687a5"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=true&theme=synthwave&title_color=39b5ff&bg_color=00000000&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=compact&langs_count=6&theme=synthwave&bg_color=00000000&title_color=39b5ff"/>
 </div>
     
 <div style="display: inline_block"><br>
