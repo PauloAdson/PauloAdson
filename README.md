@@ -7,7 +7,7 @@
 </div>
    
 <div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&card_width=520&layout=normal&langs_count=6&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=normal&langs_count=6&card_width=520&theme=synthwave&bg_color=20232a&title_color=08b6fe&text_color=FFFFFF&hide_border=true"/>
 </div>
     
 <div style="display: inline_block"><br>
