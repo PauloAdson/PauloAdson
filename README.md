@@ -70,8 +70,7 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=compact&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&hide_border=true"/>
 
 
-https://profile-counter.glitch.me/%7BPauloAdson%7D/count.svg
-&nbsp;
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 
 ---
 
