@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=120&color=44cc11&descAlign=60&section=header
+<br>
 ## Desenvolvedor Front-end
 ### Meu portfolio : <a href="https://www.pauloadson.com.br/">pauloadson.com.br</a>
 
@@ -48,3 +50,5 @@
   <a href = "mailto:paulo.alves200581@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-adson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<br>
+https://capsule-render.vercel.app/api?type=waving&height=120&color=44cc11&descAlign=60&section=footer
