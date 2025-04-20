@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=44cc11&descAlign=60&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=44cc11&descAlign=60&section=header"/>
 
 <br>
 ## Desenvolvedor Front-end
@@ -54,4 +54,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=44cc11&descAlign=60&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=44cc11&descAlign=60&section=footer"/>
