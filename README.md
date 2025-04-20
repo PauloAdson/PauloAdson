@@ -33,7 +33,7 @@
   <br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
    &nbsp;
-  <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma"/>
+  <img src="https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=ff7237"/>
    &nbsp;
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <br>
