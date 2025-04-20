@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=44cc11&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=44cc11&section=header"/>
 
 ## 👨‍💻 Desenvolvedor Front-end
 
@@ -59,9 +59,12 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 ---
 
 ### 📫 Contato
-📧 E-mail: contato@pauloadson.com.br  
-💼 LinkedIn: [linkedin.com/in/pauloadson](https://www.linkedin.com/in/pauloadson)
+<div align="center"> 
+  <a target="_blank" href="https://instagram.com/oluap_dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paulo.alves200581@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-adson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=44cc11&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=44cc11&section=footer"/>
 
 </div>
