@@ -59,6 +59,7 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 ---
 
 ### 📫 Contato
+&nbsp;
 <div align="center"> 
   <a target="_blank" href="https://instagram.com/oluap_dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.alves200581@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
