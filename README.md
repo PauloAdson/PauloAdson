@@ -66,7 +66,7 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=true&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=true&include_all_commits=false&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=compact&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&hide_border=true"/>
 
 &nbsp;
