@@ -9,6 +9,8 @@
 
 ---
 
+&nbsp;
+
 ### 👋 Sobre mim
 
 Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiência**, apaixonado por criar interfaces modernas, responsivas e com boa usabilidade.
@@ -17,7 +19,10 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 💡 Sempre buscando evoluir com novas tecnologias e desafios reais.  
 🛠️ Principais stacks: **HTML, CSS, JavaScript, React, Node.js, MySQL**.
 
+&nbsp;
+
 ---
+&nbsp;
 
 ### 🚧 Tecnologias
 
@@ -49,12 +54,18 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 &nbsp;
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ### 📊 GitHub Stats
 
 <img height="220em" src="https://github-readme-stats.vercel.app/api?username=PauloAdson&show_icons=true&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&hide_border=true"/>
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAdson&layout=normal&langs_count=6&card_width=583&theme=synthwave&bg_color=20232a&title_color=61dafb&text_color=FFFFFF&hide_border=true"/>
+
+&nbsp;
 
 ---
 
