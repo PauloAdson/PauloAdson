@@ -4,6 +4,8 @@
 
 ## 👨‍💻 Desenvolvedor Front-end
 
+&nbsp;
+
 ### 🚀 Meu portfólio:  
 <a href="https://www.pauloadson.com.br/" target="_blank"><strong>www.pauloadson.com.br</strong></a>
 
