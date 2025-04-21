@@ -73,8 +73,8 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 
 Repositórios da aplicação PagesLink:  
 
-- [PagesLink - Front-end](https://github.com/PauloAdson/pageslink)
-- [PagesLink - Back-end](https://github.com/PauloAdson/pageslink-backend)
+[PagesLink - Front-end](https://github.com/PauloAdson/pageslink)   
+[PagesLink - Back-end](https://github.com/PauloAdson/pageslink-backend)
 
 </div>
 
