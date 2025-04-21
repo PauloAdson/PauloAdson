@@ -67,7 +67,7 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
   
 ### 💻 Projetos em Andamento
 
-#### 🚀 PagesLink*
+#### 🚀 PagesLink
 
 **Facilitando a criação de sites para quem não entende de programação.**
 
