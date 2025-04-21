@@ -62,6 +62,8 @@ Sou o **Paulo Adson**, desenvolvedor front-end com mais de **2 anos de experiên
 
 ---
 
+&nbsp;
+
 ### 📊 GitHub Stats
 
 <div>
