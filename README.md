@@ -94,7 +94,7 @@ Repositórios da aplicação PagesLink:
 <br>
 
 <div>
-  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/:pauloadson:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
 ---
